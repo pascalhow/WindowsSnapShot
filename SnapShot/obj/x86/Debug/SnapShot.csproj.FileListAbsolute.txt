@@ -1,0 +1,22 @@
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\bin\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\bin\Debug\SnapShot.pdb
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.MainForm_SnapShot.resources
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.Properties.Resources.resources
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.csproj.GenerateResource.Cache
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.pdb
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.Form_ImageDescription.resources
+C:\Users\pascalh\Documents\Software Development\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.csprojResolveAssemblyReference.cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\SnapShot\SnapShot\obj\x86\Debug\SnapShot.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\bin\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\bin\Debug\SnapShot.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.csprojResolveAssemblyReference.cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.Form_ImageDescription.resources
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.MainForm_SnapShot.resources
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.Properties.Resources.resources
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\C_Sharp\SnapShot\SnapShot\obj\x86\Debug\SnapShot.csproj.GenerateResource.Cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\WindowsSnapShot\SnapShot\SnapShot\obj\x86\Debug\SnapShot.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2010\WindowsSnapShot\SnapShot\SnapShot\obj\x86\Debug\SnapShot.pdb
